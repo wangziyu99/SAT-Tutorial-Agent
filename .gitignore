@@ -24,6 +24,8 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+__pycache__/
+*.pyc
 MANIFEST
 
 # PyInstaller
@@ -169,3 +171,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Project
+logs/
+.env
