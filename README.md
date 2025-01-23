@@ -1,6 +1,6 @@
-# SAT Reading Tutorial Generator
+# SAT Reading Tutor: LLM-Powered Agent
 
-A system that automatically generates comprehensive SAT Reading tutorials using the Claude API. The system processes example questions, generates detailed explanations, and compiles both individual tutorials and a complete study guide.
+A cutting-edge system leveraging large language models (LLMs) to automatically generate comprehensive Scholastic Assessment Test (SAT) Reading tutorials. This agent processes example questions, crafts detailed explanations, and compiles both modular tutorials and an all-encompassing study guide. By harnessing the Claude API and advanced prompt engineering techniques, this tool empowers students to master SAT Reading through dynamic, explainable, and personalized content generation.
 
 ## Quick Start
 
