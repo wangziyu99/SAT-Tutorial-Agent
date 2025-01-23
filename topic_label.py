@@ -160,7 +160,7 @@ SUBCATEGORY: [specific subcategory]"""
             json.dump(results, f, indent=2)
 
 def main():
-    api_key = "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"  # Replace with your API key
+    api_key = "YOUR API HERE"  # Replace with your API key
     labeler = SATLabeler(api_key=api_key)
     labeler.process_all_questions()
 
